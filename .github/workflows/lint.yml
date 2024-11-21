@@ -40,4 +40,4 @@ jobs:
     - name: Install Dependencies
       run: npm install
     - name: TypeScript Lint
-      run: npm run tsc --noEmit
+      run: npm run typecheck
