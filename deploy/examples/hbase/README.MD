@@ -1,3 +1,0 @@
-# hbase
-
-TODO
